@@ -11,7 +11,7 @@ I'm a finnish programming student aiming towards becoming a Fullstack developer,
 ### Previous projects 💻
 
 - [Elecaster](https://github.com/JaakkoHumalajoki/SchoolProjectElecaster) 2021 University group project work, single-page web app with React, TypeScript, Highcharts and Tailwind
-- [No:Flight puzzle](https://github.com/JaakkoHumalajoki/MonadChallenge) My solutions to Monad company's puzzle challenge
+- [No:Flight puzzle](https://github.com/JaakkoHumalajoki/MonadChallenge) My Monad puzzle challenge solutions (privated until end of competition)
 - [Full stack open 2022](https://github.com/JaakkoHumalajoki/FullStackOpen2022) Current progress through the Fullstack self-study material (part 3 in separate repo)
 
 <!--
